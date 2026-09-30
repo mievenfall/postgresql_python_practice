@@ -1,0 +1,6 @@
+[postgresql]
+host=localhost
+database=suppliers
+user=YOUR_USER
+password=YOUR_PASSWORD
+
